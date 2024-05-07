@@ -7,7 +7,7 @@ icon: 'ic:round-business-center'
 tags: 'None'
 index: '4'
 created: None
-updated: 2023-12-22
+updated: 2024-05-07
 ---
 
 <!--
@@ -53,7 +53,7 @@ The following article should give you some pointers that you can use to help you
 	Article sourced from https://github.com/lissy93/git-into-opensource
 	Licensed under MIT License, (C) Alicia Sykes <alicia@as93.net> 2023
 	---
-	This file was auto-generated at 2023-12-22 23:04:40.093039
-	from /home/runner/work/git-into-open-source/git-into-open-source/guides/open-source-for-businesses.md
-	using /home/runner/work/git-into-open-source/git-into-open-source/lib/copy_resources_to_site.py
+	This file was auto-generated at 2024-05-07 17:07:17.652843
+	from /home/runner/work/git-in/git-in/guides/open-source-for-businesses.md
+	using /home/runner/work/git-in/git-in/lib/copy_resources_to_site.py
 -->
